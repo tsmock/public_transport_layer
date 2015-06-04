@@ -1,11 +1,8 @@
-README 
-======
+Public Transport Layer
+======================
 
-Readme for your plugin 
+Displays stops of selected public transport routes as graph
 
-    * Plugin author and contact email address.
-    
-    * The license for your plugin source code. If you have no special preferences, 
-      you can pick the license that is used for JOSM ("GPL v2 or later").
-      
-    * Notes for future developers, if needed.
+Author: Simon Legner (simon04)
+
+License: GPL v2 or later (as JOSM)
